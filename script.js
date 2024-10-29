@@ -20,4 +20,4 @@ darkMode.addEventListener("click", function () {
 
 const paraText = document.getElementById("text");
 paraText.innerHTML =
-  "Welcome! I’m Kevin, a computer science student passionate about coding and tech innovation. Here, I share my projects, insights, and resources in the world of technology. Whether you’re exploring for inspiration, tutorials, or just curious about what I’m working on, I hope you find something valuable. Thanks for visiting, and let’s dive into the future of tech together!";
+" <p> Welcome! I’m Kevin, a computer science student passionate about coding and tech innovation. Here, I share my projects, insights, and resources in the world of technology. Whether you’re exploring for inspiration, tutorials, or just curious about what I’m working on, I hope you find something valuable. Thanks for visiting, and let’s dive into the future of tech together! </p> ";
